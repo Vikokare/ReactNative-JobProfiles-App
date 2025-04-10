@@ -7,6 +7,10 @@ Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native 
 ```sh
 npx create-expo-app -e with-router
 ```
+## UI
+<div>
+  <img src="app-1.jpg" alt="mobile View" size="100">
+</div>
 
 ## 📝 Notes
 

@@ -9,7 +9,7 @@ npx create-expo-app -e with-router
 ```
 ## UI
 <div>
-  <img src="app-1.jpg" alt="mobile View" size="100">
+  <img src="app-1.jpg" alt="mobile View" width="300">
 </div>
 
 ## 📝 Notes
